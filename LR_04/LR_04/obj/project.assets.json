@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\БГТУ\\ООП\\OOTP\\LR_04\\LR_04\\LR_04\\LR_04.csproj",
+      "projectUniqueName": "E:\\БГТУ\\ООП\\OOTP\\LR_04\\LR_04\\LR_04.csproj",
       "projectName": "LR_04",
-      "projectPath": "E:\\БГТУ\\ООП\\OOTP\\LR_04\\LR_04\\LR_04\\LR_04.csproj",
+      "projectPath": "E:\\БГТУ\\ООП\\OOTP\\LR_04\\LR_04\\LR_04.csproj",
       "packagesPath": "C:\\Users\\Skilsar\\.nuget\\packages\\",
-      "outputPath": "E:\\БГТУ\\ООП\\OOTP\\LR_04\\LR_04\\LR_04\\obj\\",
+      "outputPath": "E:\\БГТУ\\ООП\\OOTP\\LR_04\\LR_04\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
