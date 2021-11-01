@@ -1,0 +1,13 @@
+E:\БГТУ\ООП\OOTP\LR_07\LR_07\bin\Debug\netcoreapp3.1\LR_07.exe
+E:\БГТУ\ООП\OOTP\LR_07\LR_07\bin\Debug\netcoreapp3.1\LR_07.deps.json
+E:\БГТУ\ООП\OOTP\LR_07\LR_07\bin\Debug\netcoreapp3.1\LR_07.runtimeconfig.json
+E:\БГТУ\ООП\OOTP\LR_07\LR_07\bin\Debug\netcoreapp3.1\LR_07.runtimeconfig.dev.json
+E:\БГТУ\ООП\OOTP\LR_07\LR_07\bin\Debug\netcoreapp3.1\LR_07.dll
+E:\БГТУ\ООП\OOTP\LR_07\LR_07\bin\Debug\netcoreapp3.1\LR_07.pdb
+E:\БГТУ\ООП\OOTP\LR_07\LR_07\obj\Debug\netcoreapp3.1\LR_07.csprojAssemblyReference.cache
+E:\БГТУ\ООП\OOTP\LR_07\LR_07\obj\Debug\netcoreapp3.1\LR_07.AssemblyInfoInputs.cache
+E:\БГТУ\ООП\OOTP\LR_07\LR_07\obj\Debug\netcoreapp3.1\LR_07.AssemblyInfo.cs
+E:\БГТУ\ООП\OOTP\LR_07\LR_07\obj\Debug\netcoreapp3.1\LR_07.csproj.CoreCompileInputs.cache
+E:\БГТУ\ООП\OOTP\LR_07\LR_07\obj\Debug\netcoreapp3.1\LR_07.dll
+E:\БГТУ\ООП\OOTP\LR_07\LR_07\obj\Debug\netcoreapp3.1\LR_07.pdb
+E:\БГТУ\ООП\OOTP\LR_07\LR_07\obj\Debug\netcoreapp3.1\LR_07.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\БГТУ\\ООП\\LR_2\\LR_2\\LR_2\\LR_2.csproj": {}
+    "E:\\БГТУ\\ООП\\OOTP\\LR_07\\LR_07\\LR_07.csproj": {}
   },
   "projects": {
-    "E:\\БГТУ\\ООП\\LR_2\\LR_2\\LR_2\\LR_2.csproj": {
+    "E:\\БГТУ\\ООП\\OOTP\\LR_07\\LR_07\\LR_07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\БГТУ\\ООП\\LR_2\\LR_2\\LR_2\\LR_2.csproj",
-        "projectName": "LR_2",
-        "projectPath": "E:\\БГТУ\\ООП\\LR_2\\LR_2\\LR_2\\LR_2.csproj",
+        "projectUniqueName": "E:\\БГТУ\\ООП\\OOTP\\LR_07\\LR_07\\LR_07.csproj",
+        "projectName": "LR_07",
+        "projectPath": "E:\\БГТУ\\ООП\\OOTP\\LR_07\\LR_07\\LR_07.csproj",
         "packagesPath": "C:\\Users\\Skilsar\\.nuget\\packages\\",
-        "outputPath": "E:\\БГТУ\\ООП\\LR_2\\LR_2\\LR_2\\obj\\",
+        "outputPath": "E:\\БГТУ\\ООП\\OOTP\\LR_07\\LR_07\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"
