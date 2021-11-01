@@ -21,7 +21,7 @@ namespace LR_05
             Console.WriteLine("Павел служащий?: " + (OneEmpl is Employee) + "\n");
             Console.ForegroundColor = ConsoleColor.Gray;
 
-            TwoStudent.ToString(); ///вызов общего метода
+            TwoStudent.ToString(); //вызов общего метода
 
             Printer printer = new Printer();
             printer.IAmPrinting(Gleb);  //возвращает значение полученное в результате выполнения ToString

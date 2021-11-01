@@ -30,8 +30,8 @@ namespace LR_05
         {
             Console.ForegroundColor = ConsoleColor.DarkCyan;
             Console.WriteLine($"Имя: {Name};\nВозраст: {Age};\nEmail: {Email};\nНомер телефона: {Number}");
-            return " type " + base.ToString();
             Console.ForegroundColor = ConsoleColor.Gray;
+            return " type " + base.ToString();
 
         }
 
