@@ -24,6 +24,7 @@ namespace LR_07
                 catch (ErrorName ex)
                 {
                     Console.WriteLine($"{ex.Message}\n{ex.Source}\n{ex.StackTrace}");
+                    Logger.WriteLog(ex);
                 }
 
                 //Проверка правильности Возраста
@@ -35,6 +36,7 @@ namespace LR_07
                 catch (ErrorAge ex)
                 {
                     Console.WriteLine($"{ex.Message}\n{ex.Source}\n{ex.StackTrace}");
+                    Logger.WriteLog(ex);
                 }
 
                 //Проверка стажа программиста
@@ -45,6 +47,7 @@ namespace LR_07
                 catch (ProgrammerExpError ex)
                 {
                     Console.WriteLine($"{ex.Message}\n{ex.Source}\n{ex.StackTrace}");
+                    Logger.WriteLog(ex);
                 }
 
                 Learner OneLearner = new Learner("Игорь", 19, "www.igor@igor.by", "934357679", "ПОИТ", new DateTime(2019, 09, 01));
@@ -71,6 +74,7 @@ namespace LR_07
                 catch (IndexOutOfRangeException ex)
                 {
                     Console.WriteLine($"{ex.Message}\n{ex.Source}\n{ex.StackTrace}");
+                    Logger.WriteLog(ex);
                 }
 
                 Console.WriteLine("\nПопытка недопустимого преобразования типов (Стан. фун. InvalidCastException)\n");
@@ -82,6 +86,7 @@ namespace LR_07
                 catch (InvalidCastException ex)
                 {
                     Console.WriteLine($"{ex.Message}\n{ex.Source}\n{ex.StackTrace}");
+                    Logger.WriteLog(ex);
                 }
 
                 Working TwoWork = new Working("2Worker", 19, "456765456@bul.by", "375445698370333", "Инженер", new DateTime(2018, 10, 10));
@@ -108,6 +113,7 @@ namespace LR_07
             catch (Exception ex)
             {
                 Console.WriteLine($"{ex.Message}\n{ex.Source}\n{ex.StackTrace}");
+                Logger.WriteLog(ex);
             }
             finally
             {

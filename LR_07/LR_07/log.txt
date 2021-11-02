@@ -1,0 +1,30 @@
+Время: Вт.02.11.2021 18:02:20
+Ошибка #1: Недопустимое значение имени
+LR_07
+   at LR_07.Person..ctor(String Name, Int32 Age, String Email, String Number) in E:\БГТУ\ООП\OOTP\LR_07\LR_07\Interface.cs:line 95
+   at LR_07.Employee..ctor(String Name, Int32 Age, String Email, String Number, String IEmployee, DateTime DateEmployment) in E:\БГТУ\ООП\OOTP\LR_07\LR_07\Interface.cs:line 144
+   at LR_07.Program.Main(String[] args) in E:\БГТУ\ООП\OOTP\LR_07\LR_07\Program.cs:line 21
+
+Время: Вт.02.11.2021 18:02:20
+Ошибка #2: Недопустимое значение возраста
+LR_07
+   at LR_07.Person..ctor(String Name, Int32 Age, String Email, String Number) in E:\БГТУ\ООП\OOTP\LR_07\LR_07\Interface.cs:line 100
+   at LR_07.Employee..ctor(String Name, Int32 Age, String Email, String Number, String IEmployee, DateTime DateEmployment) in E:\БГТУ\ООП\OOTP\LR_07\LR_07\Interface.cs:line 144
+   at LR_07.Program.Main(String[] args) in E:\БГТУ\ООП\OOTP\LR_07\LR_07\Program.cs:line 33
+
+Время: Вт.02.11.2021 18:02:20
+Ошибка #3: Ошибка значения Стажа программиста
+LR_07
+   at LR_07.Programmer..ctor(String Name, Int32 Age, String Email, String Number, String ProgreammerTypes, Int32 Exp) in E:\БГТУ\ООП\OOTP\LR_07\LR_07\Interface.cs:line 305
+   at LR_07.Program.Main(String[] args) in E:\БГТУ\ООП\OOTP\LR_07\LR_07\Program.cs:line 45
+
+Время: Вт.02.11.2021 18:02:20
+Ошибка #4: Index was outside the bounds of the array.
+LR_07
+   at LR_07.Program.Main(String[] args) in E:\БГТУ\ООП\OOTP\LR_07\LR_07\Program.cs:line 72
+
+Время: Вт.02.11.2021 18:02:20
+Ошибка #5: Unable to cast object of type 'System.String' to type 'System.Char'.
+LR_07
+   at LR_07.Program.Main(String[] args) in E:\БГТУ\ООП\OOTP\LR_07\LR_07\Program.cs:line 84
+
