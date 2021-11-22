@@ -7,6 +7,8 @@ namespace LR_09
         public int HitPoints;
         public string Name;
         public string TypeHeros;
+        public delegate void List(string message);
+        public event List Notify;
 
         public LegendaryHeros(int HitPoint, string Name)
         {
@@ -20,7 +22,8 @@ namespace LR_09
             int DiffHitValue = DiffHit.Next(0, 150);
             this.HitPoints = this.HitPoints - DiffHitValue;
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.Write($"\nАтакован объект {this.Name}!\nНанесено урона: {DiffHitValue}.\nТекущее здоровье объекта: {this.HitPoints}\n");
+            //Console.Write($"\nАтакован объект {this.Name}!\nНанесено урона: {DiffHitValue}.\nТекущее здоровье объекта: {this.HitPoints}\n");
+            Notify?.Invoke($"\nАтакован объект {this.Name}!\nНанесено урона: {DiffHitValue}.\nТекущее здоровье объекта: {this.HitPoints}\n");
             Console.ForegroundColor = ConsoleColor.Gray;
         }
 
@@ -30,8 +33,13 @@ namespace LR_09
             int HealHitValue = HealHit.Next(50, 100);
             this.HitPoints = this.HitPoints + HealHitValue;
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.Write($"\nИсцелен объект {this.Name}!\nДобавлено здоровья: {HealHitValue}.\nТекущее здоровье объекта: {this.HitPoints}\n");
+            //Console.Write($"\nИсцелен объект {this.Name}!\nДобавлено здоровья: {HealHitValue}.\nТекущее здоровье объекта: {this.HitPoints}\n");
+            Notify?.Invoke($"\nИсцелен объект {this.Name}!\nДобавлено здоровья: {HealHitValue}.\nТекущее здоровье объекта: {this.HitPoints}\n");
             Console.ForegroundColor = ConsoleColor.Gray;
+        }
+        public static void DisplayNotify(string message)
+        {
+            Console.WriteLine(message);
         }
     }
 

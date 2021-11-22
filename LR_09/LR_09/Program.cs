@@ -1,4 +1,5 @@
 ﻿using System;
+using static LR_09.LegendaryHeros;
 
 namespace LR_09
 {
@@ -8,6 +9,8 @@ namespace LR_09
         {
             Hero HeroOne = new Hero(1000, "HeroOne");
             Undead UndeadOne = new Undead(300, "Sceleton");
+            HeroOne.Notify += DisplayNotify;
+            UndeadOne.Notify += DisplayNotify;
             HeroOne.Attack();
             UndeadOne.Health();
 
