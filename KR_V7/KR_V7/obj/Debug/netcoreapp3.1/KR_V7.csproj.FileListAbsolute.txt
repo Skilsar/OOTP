@@ -1,0 +1,13 @@
+E:\БГТУ\ООП\OOTP\KR_V7\KR_V7\bin\Debug\netcoreapp3.1\KR_V7.exe
+E:\БГТУ\ООП\OOTP\KR_V7\KR_V7\bin\Debug\netcoreapp3.1\KR_V7.deps.json
+E:\БГТУ\ООП\OOTP\KR_V7\KR_V7\bin\Debug\netcoreapp3.1\KR_V7.runtimeconfig.json
+E:\БГТУ\ООП\OOTP\KR_V7\KR_V7\bin\Debug\netcoreapp3.1\KR_V7.runtimeconfig.dev.json
+E:\БГТУ\ООП\OOTP\KR_V7\KR_V7\bin\Debug\netcoreapp3.1\KR_V7.dll
+E:\БГТУ\ООП\OOTP\KR_V7\KR_V7\bin\Debug\netcoreapp3.1\KR_V7.pdb
+E:\БГТУ\ООП\OOTP\KR_V7\KR_V7\obj\Debug\netcoreapp3.1\KR_V7.csprojAssemblyReference.cache
+E:\БГТУ\ООП\OOTP\KR_V7\KR_V7\obj\Debug\netcoreapp3.1\KR_V7.AssemblyInfoInputs.cache
+E:\БГТУ\ООП\OOTP\KR_V7\KR_V7\obj\Debug\netcoreapp3.1\KR_V7.AssemblyInfo.cs
+E:\БГТУ\ООП\OOTP\KR_V7\KR_V7\obj\Debug\netcoreapp3.1\KR_V7.csproj.CoreCompileInputs.cache
+E:\БГТУ\ООП\OOTP\KR_V7\KR_V7\obj\Debug\netcoreapp3.1\KR_V7.dll
+E:\БГТУ\ООП\OOTP\KR_V7\KR_V7\obj\Debug\netcoreapp3.1\KR_V7.pdb
+E:\БГТУ\ООП\OOTP\KR_V7\KR_V7\obj\Debug\netcoreapp3.1\KR_V7.genruntimeconfig.cache
