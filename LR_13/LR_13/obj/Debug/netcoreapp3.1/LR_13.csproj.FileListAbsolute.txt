@@ -1,0 +1,13 @@
+E:\БГТУ\ООП\OOTP\LR_13\LR_13\bin\Debug\netcoreapp3.1\LR_13.exe
+E:\БГТУ\ООП\OOTP\LR_13\LR_13\bin\Debug\netcoreapp3.1\LR_13.deps.json
+E:\БГТУ\ООП\OOTP\LR_13\LR_13\bin\Debug\netcoreapp3.1\LR_13.runtimeconfig.json
+E:\БГТУ\ООП\OOTP\LR_13\LR_13\bin\Debug\netcoreapp3.1\LR_13.runtimeconfig.dev.json
+E:\БГТУ\ООП\OOTP\LR_13\LR_13\bin\Debug\netcoreapp3.1\LR_13.dll
+E:\БГТУ\ООП\OOTP\LR_13\LR_13\bin\Debug\netcoreapp3.1\LR_13.pdb
+E:\БГТУ\ООП\OOTP\LR_13\LR_13\obj\Debug\netcoreapp3.1\LR_13.AssemblyInfoInputs.cache
+E:\БГТУ\ООП\OOTP\LR_13\LR_13\obj\Debug\netcoreapp3.1\LR_13.AssemblyInfo.cs
+E:\БГТУ\ООП\OOTP\LR_13\LR_13\obj\Debug\netcoreapp3.1\LR_13.csproj.CoreCompileInputs.cache
+E:\БГТУ\ООП\OOTP\LR_13\LR_13\obj\Debug\netcoreapp3.1\LR_13.dll
+E:\БГТУ\ООП\OOTP\LR_13\LR_13\obj\Debug\netcoreapp3.1\LR_13.pdb
+E:\БГТУ\ООП\OOTP\LR_13\LR_13\obj\Debug\netcoreapp3.1\LR_13.genruntimeconfig.cache
+E:\БГТУ\ООП\OOTP\LR_13\LR_13\obj\Debug\netcoreapp3.1\LR_13.csprojAssemblyReference.cache
