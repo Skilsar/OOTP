@@ -1,0 +1,13 @@
+E:\БГТУ\ООП\OOTP\LR_16\LR_16\bin\Debug\netcoreapp3.1\LR_16.exe
+E:\БГТУ\ООП\OOTP\LR_16\LR_16\bin\Debug\netcoreapp3.1\LR_16.deps.json
+E:\БГТУ\ООП\OOTP\LR_16\LR_16\bin\Debug\netcoreapp3.1\LR_16.runtimeconfig.json
+E:\БГТУ\ООП\OOTP\LR_16\LR_16\bin\Debug\netcoreapp3.1\LR_16.runtimeconfig.dev.json
+E:\БГТУ\ООП\OOTP\LR_16\LR_16\bin\Debug\netcoreapp3.1\LR_16.dll
+E:\БГТУ\ООП\OOTP\LR_16\LR_16\bin\Debug\netcoreapp3.1\LR_16.pdb
+E:\БГТУ\ООП\OOTP\LR_16\LR_16\obj\Debug\netcoreapp3.1\LR_16.csprojAssemblyReference.cache
+E:\БГТУ\ООП\OOTP\LR_16\LR_16\obj\Debug\netcoreapp3.1\LR_16.AssemblyInfoInputs.cache
+E:\БГТУ\ООП\OOTP\LR_16\LR_16\obj\Debug\netcoreapp3.1\LR_16.AssemblyInfo.cs
+E:\БГТУ\ООП\OOTP\LR_16\LR_16\obj\Debug\netcoreapp3.1\LR_16.csproj.CoreCompileInputs.cache
+E:\БГТУ\ООП\OOTP\LR_16\LR_16\obj\Debug\netcoreapp3.1\LR_16.dll
+E:\БГТУ\ООП\OOTP\LR_16\LR_16\obj\Debug\netcoreapp3.1\LR_16.pdb
+E:\БГТУ\ООП\OOTP\LR_16\LR_16\obj\Debug\netcoreapp3.1\LR_16.genruntimeconfig.cache
