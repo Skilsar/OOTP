@@ -1,7 +1,6 @@
 # OOTP labs :gear:
 
-<h2>FIO: Хлыстов Глеб Георгиевич</h2>
-Student: POIT 6-2
+2nd Year student of the BSTU
 
 ## My GitHub:
 <a href="https://github.com/Skilsar" target="_blank">github.com/Skilsar</a>
