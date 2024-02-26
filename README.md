@@ -4,6 +4,3 @@
 
 ## My GitHub:
 <a href="https://github.com/Skilsar" target="_blank">github.com/Skilsar</a>
-
-## Contacts :envelope:
-E-mail: skilsar@gmail.com
